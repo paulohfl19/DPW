@@ -1,0 +1,30 @@
+HTML é a estrutura da pagina web.
+Javascript é frontend. Serve para fazer as ações da pagina
+
+JavaScript é o "Cérebro" do navegador, é a linguagem que traz vida as paginas web. Ele roda diretamente no navegador, sem precisar de instalações extras.
+Responde a cliques, valida formularios e carrega novos dados sem precisar recarregar a página
+
+JavaScript em ação
+Esconder ou mostrar elementos, exibir um "bem vindo", mudar a cor de um botão ou disparar uma ação quando o usuário clica ou passa o mouse.
+
+DON, tecnologia que JavaScript trabalha direto com o HTML.
+
+Front-end: É tudo que o usuário vê, toca e interage em um sistema web.
+HTML: O conteúdo e a estrutura
+CSS: O design e a estética
+JavaScript: O comportamento e a vida.
+
+Back-end: Os bastidores
+
+Servidor:o computador que recebe seus pedidos processa a lógica e envia a resposta de volta.
+
+requisição: o usuario interage com o front-end e envia um pedido ao servidor
+processamento: o back-end recebe o pedido, processa a logica e busca dados
+resposta: o servidor envia os dados processados de volta para o navegador
+renderização: o navegador usa HTML CSS e JS para renderizar os dados
+
+tecnologias e o mercado:
+front-end:React, Vue.js, Angular
+Back-end: Node.JS, Python, PHP/Java
+Full Stack: Domina ambos os lados, alta demanda e maior flexibilidade
+
